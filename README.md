@@ -81,11 +81,7 @@ Frontend
 
 ---
 
-## Screenshots
 
-(Add screenshots here)
-
----
 
 ## Learning Outcomes
 
