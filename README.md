@@ -60,27 +60,6 @@ A full-stack E-Commerce application developed using Spring Boot and React that a
 
 ---
 
-## Project Structure
-
-```
-Backend
-│
-├── Controller
-├── Service
-├── Repository
-├── Model
-└── Database
-
-Frontend
-│
-├── Components
-├── Context API
-├── Axios
-└── CSS
-```
-
----
-
 
 
 ## Learning Outcomes
